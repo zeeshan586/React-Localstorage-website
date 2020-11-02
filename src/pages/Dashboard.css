@@ -1,0 +1,13 @@
+
+  .reports{
+    background-color:rgb(247,248,248);
+    display: flex;
+    flex-direction: row;
+  }
+  .tb{
+    background-color: rgb(247,248,248);
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    
+  }

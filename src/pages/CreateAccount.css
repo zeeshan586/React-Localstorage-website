@@ -1,0 +1,77 @@
+/* .open-create-btn{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-top: #222;
+   margin-top: 15%;
+   
+ 
+} */
+
+.classe-paper {
+  display: flex;
+  flex-direction: column;
+   border: none;
+    padding: 16px 100px 24px;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+    border-radius: 6px;
+    background-color: rgb(247,248,248);;
+    
+}
+.classes-btn{
+  margin-top: 12%;
+  }
+/* style inputs and link buttons */
+input,
+.btn {
+  width: 80%;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  margin: 11px 4px;
+  opacity: 0.85;
+  display: flex;
+  flex-direction: row;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+  margin-top: 1%;
+
+}
+
+input:hover,
+.btn:hover {
+  opacity: 1;
+}
+
+/* add appropriate colors to fb, twitter and google buttons */
+.fb {
+  background-color: #3B5998;
+  color: white;
+ 
+}
+
+.twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+
+.google {
+  background-color: #be301d;
+  color: white;
+}
+/* Two-column layout */
+.col {
+  float: left;
+  width: 90%;
+  margin: 0%;
+  padding: 0 50px;
+  border: none;
+  border-radius: 0px ;
+ 
+}
+.mein-page{
+  display: flex;
+  flex-direction: row;
+}
+

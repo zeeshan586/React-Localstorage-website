@@ -1,0 +1,95 @@
+
+
+.back-imge{
+    
+    
+    background-image: url("/Captureddddddddddddd.PNG");
+    height: 203px;
+    margin-top: 2%;
+
+}
+.product-btn{
+    display: flex;  
+    flex-direction: row;
+    border-radius: 5px;
+    background-color:(247,248,248);
+    align-items: center;
+    
+
+}
+.ref-page{
+margin-left: 02%;
+}
+.ref-page2{
+    margin-left: 40%;
+    }
+    .collect-point{
+        display: flex;
+        flex-direction: row;
+        background-color:rgba(245,245,245);
+        border-radius: 6px;
+        border: 1px solid #d6d1d5;
+        margin-top: 05%;
+        height: 500px;
+        
+       
+    }
+.new-collection{
+    width: 230px;
+    height: 280px;
+    padding: 20px 40px;
+    background-color: #fff;
+    margin-left: 01%;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 6px;
+  margin-top: 02%;
+  background-image: url("/images (1).jpg");
+  background-repeat: no-repeat;
+  
+  
+}
+.new-2-collection{
+    width: 230px;
+    height: 280px;
+    padding: 20px 40px;
+    background-color: #fff;
+    margin-left: 01%;background-repeat: no-repeat;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 6px;
+  margin-top: 02%;
+  background-image: url("/images (2).jpg");
+  background-repeat: no-repeat;
+  
+}
+.new-3-collection{
+    width: 230px;
+    height: 280px;
+    padding: 20px 40px;
+    background-color: #fff;
+    margin-left: 01%;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 6px;
+  margin-top: 02%;
+  background-image: url("/images.jpg");
+  background-repeat: no-repeat;
+}
+.new-4-collection{
+    width: 230px;
+    height: 280px;
+    padding: 20px 40px;
+    background-color: #fff;
+    margin-left: 01%;
+    box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2), 0px 1px 1px 0px rgba(0,0,0,0.14), 0px 1px 3px 0px rgba(0,0,0,0.12);
+  border-radius: 6px;
+  margin-top: 02%;   
+  background-image: url("/images (3).jpg");
+  background-repeat: no-repeat;
+}
+.new-collection,
+.new-3-collection,
+.new-4-collection,
+.new-2-collection{
+    display: flex;
+    flex-direction: column;
+    
+}
